@@ -1,0 +1,12 @@
+{"run":"c","count":"1"}
+{"run":"c","count":"0"}
+{"run":"c","count":"1"}
+{"run":"c","count":"0"}
+{"run":"c","count":"1"}
+{"run":"c","count":"0"}
+{"run":"c","count":"1"}
+{"run":"c","count":"0"}
+{"run":"c","count":"0"}
+{"run":"c","count":"0"}
+{"finalSegmentFileCounts":{"fast":6,"fieldnorm":5,"idx":5,"pos":5,"store":6,"term":5},"totalIndexTime":"377.33775ms"}
+All done!! 🎉🎉🎉
